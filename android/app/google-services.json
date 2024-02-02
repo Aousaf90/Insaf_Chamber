@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1006822727339",
+    "project_id": "insafchamber2",
+    "storage_bucket": "insafchamber2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006822727339:android:ba644c3316b98916fea1ee",
+        "android_client_info": {
+          "package_name": "com.example.insafchamber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006822727339-psebpir5tpc0c91gcqip5c028thk9ahe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6n_Z5J76HNyZP_7xFQfak7xUK9Ggsiw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006822727339-psebpir5tpc0c91gcqip5c028thk9ahe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006822727339-b1tqcf73ah836gq0ucmn00osj9vg7ptu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.insafchamber"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
